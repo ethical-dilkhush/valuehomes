@@ -1,0 +1,17 @@
+# Dependencies
+/vendor
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS / editor metadata
+.DS_Store
+Thumbs.db
+.idea
+.vscode
+
+# Build / cache
+/coverage
+/nbproject
