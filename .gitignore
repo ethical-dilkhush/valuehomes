@@ -7,6 +7,9 @@
 .env.local
 .env.*.local
 
+# Python artifacts
+__pycache__
+
 # OS / editor metadata
 .DS_Store
 Thumbs.db
