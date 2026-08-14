@@ -1,11 +1,13 @@
 # Dependencies
 /vendor
 /node_modules
+/dist
 
 # Environment
 .env
 .env.local
 .env.*.local
+.venv
 
 # Python artifacts
 __pycache__
